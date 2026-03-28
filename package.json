@@ -1,0 +1,27 @@
+{
+  "name": "midnight-beach-theme",
+  "displayName": "midnight beach",
+  "description": "A calm dark theme inspired by midnight beaches.",
+  "publisher": "pawan-kalyan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pawannn/midnight-beach-theme.git"
+  },
+  "version": "0.0.2",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Beach",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Beach-color-theme.json"
+      }
+    ]
+  }
+}
