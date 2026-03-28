@@ -1,13 +1,13 @@
 {
   "name": "midnight-beach-theme",
-  "displayName": "midnight beach",
-  "description": "A calm dark theme inspired by midnight beaches.",
-  "publisher": "pawan-kalyan",
+  "displayName": "midnight beach dark theme",
+  "description": "A clean, aesthetic dark theme for VS Code inspired by midnight beaches, designed for calm visuals and long coding sessions.",
+  "publisher": "pawankalyan",
   "repository": {
     "type": "git",
     "url": "https://github.com/pawannn/midnight-beach-theme.git"
   },
-  "version": "0.0.2",
+  "version": "0.1.0",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.110.0"
@@ -23,5 +23,17 @@
         "path": "./themes/Midnight Beach-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "dark theme",
+    "midnight",
+    "beach",
+    "blue theme",
+    "developer theme",
+    "vscode dark",
+    "minimal dark theme",
+    "coding theme",
+    "night theme",
+    "cool dark theme"
+  ]
 }
